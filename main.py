@@ -18,7 +18,7 @@ for h1_tag in h1_tags:
 
 # メッセージ作成
 msg = ""
-for i in range(5):
+for i in range(6):
   d = data[i]
   msg = msg + d[0] + '：' + d[1] + '\n' + '----------------------------------\n'
 
