@@ -1,4 +1,4 @@
 # yodoru
 
-よーどる速報(http://lol-yordle.blog.jp/)
-の最新の記事をLineに通知してくれるプログラム
+よーどる速報( http://lol-yordle.blog.jp/ )というeSportsに関するまとめサイトの最新の記事を Line Notify に通知させるプログラム．
+herokuを利用．
